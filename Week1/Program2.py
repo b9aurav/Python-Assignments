@@ -1,8 +1,8 @@
 def feetToInch(feet):
-    return feet * 12
+    return float(feet * 12)
 
 def inchToFeet(inch):
-    return inch / 12
+    return float(inch / 12)
 
 n = float(input('Enter value : '))
 print('\n|-----OPTIONS-----|')
