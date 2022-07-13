@@ -1,0 +1,6 @@
+1. Find gcd of a list of given numbers using gcd function in math module
+
+2. use hypot function to find the hypotenuse of a given list of cooredinates in 2 and 3 dimensions.
+
+3. Write a function called is_sorted that takes a list as a parameter and returns true if the list is sorted in ascendeing order and false otherwise. you can assume as a precondition that elements of the list can be compared with comparision operator.
+
